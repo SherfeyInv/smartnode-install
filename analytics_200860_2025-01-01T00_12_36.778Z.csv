@@ -1,0 +1,8 @@
+date,repository_name,total_critical_alerts,total_high_alerts,total_medium_alerts,total_low_alerts,total_critical_added,total_high_added,total_medium_added,total_low_added,total_critical_prevented,total_high_prevented,total_medium_prevented,total_low_prevented,top_five_issue_types
+2024-12-25,digitalgov.gov,0,5,107,620,0,0,0,0,0,0,0,0,"{""envVars"":219,""newAuthor"":29,""unmaintained"":148,""dynamicRequire"":72,""filesystemAccess"":100}"
+2024-12-26,digitalgov.gov,0,5,107,620,0,0,0,0,0,0,0,0,"{""envVars"":219,""newAuthor"":29,""unmaintained"":148,""dynamicRequire"":72,""filesystemAccess"":100}"
+2024-12-27,digitalgov.gov,0,5,107,620,0,0,0,0,0,0,0,0,"{""envVars"":219,""newAuthor"":29,""unmaintained"":148,""dynamicRequire"":72,""filesystemAccess"":100}"
+2024-12-28,digitalgov.gov,0,5,107,620,0,0,0,0,0,0,0,0,"{""envVars"":219,""newAuthor"":29,""unmaintained"":148,""dynamicRequire"":72,""filesystemAccess"":100}"
+2024-12-29,digitalgov.gov,0,5,107,620,0,0,0,0,0,0,0,0,"{""envVars"":219,""newAuthor"":29,""unmaintained"":148,""dynamicRequire"":72,""filesystemAccess"":100}"
+2024-12-30,digitalgov.gov,0,5,107,620,0,0,0,0,0,0,0,0,"{""envVars"":219,""newAuthor"":29,""unmaintained"":149,""dynamicRequire"":72,""filesystemAccess"":100}"
+2024-12-31,digitalgov.gov,0,5,107,620,0,0,0,0,0,0,0,0,"{""envVars"":219,""newAuthor"":29,""unmaintained"":149,""dynamicRequire"":72,""filesystemAccess"":100}"
